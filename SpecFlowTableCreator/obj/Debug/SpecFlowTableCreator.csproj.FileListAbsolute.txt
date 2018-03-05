@@ -1,0 +1,7 @@
+C:\Development\c#\SpecFlowTableCreator\SpecFlowTableCreator\obj\Debug\SpecFlowTableCreator.csprojResolveAssemblyReference.cache
+C:\Development\c#\SpecFlowTableCreator\SpecFlowTableCreator\obj\Debug\SpecFlowTableCreator.csproj.CoreCompileInputs.cache
+C:\Development\c#\SpecFlowTableCreator\SpecFlowTableCreator\bin\Debug\SpecFlowTableCreator.exe.config
+C:\Development\c#\SpecFlowTableCreator\SpecFlowTableCreator\bin\Debug\SpecFlowTableCreator.exe
+C:\Development\c#\SpecFlowTableCreator\SpecFlowTableCreator\bin\Debug\SpecFlowTableCreator.pdb
+C:\Development\c#\SpecFlowTableCreator\SpecFlowTableCreator\obj\Debug\SpecFlowTableCreator.exe
+C:\Development\c#\SpecFlowTableCreator\SpecFlowTableCreator\obj\Debug\SpecFlowTableCreator.pdb
